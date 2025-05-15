@@ -13,8 +13,8 @@ Esta pasta contém a documentação dos testes manuais realizados, incluindo pla
 
 ---
 ### 📝 Plano de Testes
-- Plano de teste documentados em: [plano-de-teste-cypress.md](./plano-de-teste-cypress.md)
-- Casos de teste documentados em: [casos-de-teste-cypress.md](./casos-de-teste-cypress.md)
+- Plano de teste documentados em: [plano-de-teste-cypress](.Testes-manuais-Cypress/plano-de-teste-cypress.md)
+- Casos de teste documentados em: [casos-de-teste-cypress](.Testes-manuais-Cypress/casos-de-teste-cypress.md)
 
 -🧪 Testes foram Automatizados com Cypress: [clique aqui](https://github.com/KleberKeki/cypress-tests) 
 

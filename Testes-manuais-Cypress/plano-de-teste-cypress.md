@@ -60,5 +60,5 @@ Validar os comportamentos esperados do formulário de login, assegurando que o s
 
 ## 📝 Referências
 
-- Casos de teste documentados em: [casos-de-teste-cypress.md](./casos-de-teste-cypress.md)
+- Casos de teste documentados em: [casos-de-teste-cypress](./casos-de-teste-cypress.md)
 - Plano de automação no Cypress: [README.md do projeto principal](../README.md)

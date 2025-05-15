@@ -74,5 +74,5 @@
 
 ## 📝 Referências
 
-- Plano de teste documentados em: [plano-de-teste-cypress.md](./plano-de-teste-cypress.md)
+- Plano de teste documentados em: [plano-de-teste-cypress](./plano-de-teste-cypress.md)
 - Plano de automação no Cypress: [README.md do projeto principal](../README.md)
