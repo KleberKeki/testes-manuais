@@ -13,11 +13,10 @@ Esta pasta contém a documentação dos testes manuais realizados, incluindo pla
 
 ---
 ### 📝 Plano de Testes
-- Plano de teste documentados em: [plano-de-teste.md](./plano-de-teste.md)
-- Casos de teste documentados em: [casos-de-teste.md](./casos-de-teste.md)
+- Plano de teste documentados em: [plano-de-teste-cypress](./plano-de-teste-cypress.md)
+- Casos de teste documentados em: [casos-de-teste-cypress](./casos-de-teste-cypress.md)
 
-
-## 🧪 Esees Testes foram Automatizados com Cypress: [clique aqui](https://github.com/KleberKeki/cypress-tests) 
+-🧪 Testes foram Automatizados com Cypress: [clique aqui](https://github.com/KleberKeki/cypress-tests) 
 
 ### 🎯 Objetivo
 Praticar testes End-to-End (E2E) em uma aplicação web simulada, reforçando conhecimentos na área de qualidade de software e organizando arquivos como em um projeto real.
